@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMapsV2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="type_array">
+        <item>Bridge</item>
+        <item>Water Tap</item>
+        <item>Mountain House</item>
+        <item>Flora</item>
+        <item>Fauna</item>
+        <item>Danger Zone</item>
+    </string-array>
+
+</resources>
